@@ -1,0 +1,13 @@
+
+Compte numéro : 108
+Solde après transaction : 450$
+Transaction effectué (dd/MM/yyyy HH:mm:ss): 17/05/2021 09:21:41
+
+Compte numéro : 109
+Solde après transaction : 50$
+Transaction effectué (dd/MM/yyyy HH:mm:ss): 17/05/2021 09:22:07
+
+Compte numéro : 111
+Solde après transaction : 150$
+Transaction effectué (dd/MM/yyyy HH:mm:ss): 17/05/2021 09:59:07
+
